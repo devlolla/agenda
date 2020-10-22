@@ -15,9 +15,9 @@
 
 
 # Preenchimento dos campos para cadastrar.
-![print 1](https://user-images.githubusercontent.com/59802692/96928479-f992ef80-148e-11eb-80d2-e595050f39f5.png)
-
 # Dados registrados e prontos.
-![print 2](https://user-images.githubusercontent.com/59802692/96928484-fac41c80-148e-11eb-9b70-4a3c4e188c5f.png)
 
-![print 3](https://user-images.githubusercontent.com/59802692/96928488-fbf54980-148e-11eb-8dd3-def4aab80a8e.png)
+![Agenda - Pessoal — Microsoft_ Edge 2020-10-22 17-39-17](https://user-images.githubusercontent.com/59802692/96941307-7c747400-14a8-11eb-8490-b1d6895800c7.gif)
+
+
+
